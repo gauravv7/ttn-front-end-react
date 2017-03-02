@@ -1,0 +1,5 @@
+foo bar
+baz
+qux
+
+last line (there may or may not be a trailing newline after this line)
